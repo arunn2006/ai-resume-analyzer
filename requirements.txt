@@ -1,0 +1,15 @@
+Django==6.0.5
+PyPDF2==3.0.1
+nltk==3.9.4
+scikit-learn==1.8.0
+numpy==2.4.6
+scipy==1.17.1
+joblib==1.5.3
+threadpoolctl==3.6.0
+asgiref==3.11.1
+sqlparse==0.5.5
+tzdata==2026.2
+regex==2026.5.9
+tqdm==4.67.3
+click==8.4.1
+colorama==0.4.6
